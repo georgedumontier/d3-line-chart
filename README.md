@@ -1,4 +1,4 @@
-web-app-template-simple
+d3-line-chart
 =======================
 
-A simple web app template with jQuery, and Bootstrap.  | Mizzou Workshop - Oct. 2014
+My first shot at a line chart in d3
